@@ -1,12 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
 
-}
-model-viewer{
-    width: 800px;
-    height: 600px;
-    background-color: white;
 }
 <style>
 model-viewer {
