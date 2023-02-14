@@ -1,8 +1,10 @@
 
-
+*{
+  margin: 0;
+  
 model-viewer {
-  position: relative;
-  left: 100px;
+  
+  
   width: 600px;
   height: 800px;
   
