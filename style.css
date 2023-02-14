@@ -1,9 +1,9 @@
 
    model-viewer {
     position: relative;
-    right: 100px;
-      width: 100%;
-      height: 1000px;
+    top: 100px;
+      width: 1920;
+      height: 1080px;
   background-color:#eee;
   }
 
