@@ -1,6 +1,8 @@
 
 
 model-viewer {
+  position: relative;
+  left: 100px;
   width: 1920px;
   height: 1080px;
 }
