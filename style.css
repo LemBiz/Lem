@@ -1,5 +1,7 @@
 
    model-viewer {
+    position: relative;
+    right: 100px;
       width: 1000px;
       height: 1000px;
   background-color:#eee;
