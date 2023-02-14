@@ -63,7 +63,7 @@ h1 {
   z-index: 9;
 }
 a.active {
-  background-color: #e74c3c;
+  background-color: #9b59b6;;
   pointer-events: none;
 }
 li.slider {
