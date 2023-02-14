@@ -72,7 +72,7 @@ li.slider {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #e74c3c;
+  background-color:  #9b59b6;;
   z-index: 8;
   transition: left 0.4s, background-color 0.4s;
 }
