@@ -99,12 +99,12 @@ li.slider {
   font-family: 'Times New Roman', Times, serif;
 }
 
-body{
+/*body{
   min-height:100vh;
   display:grid;
   place-items:center;
   font-family: 'Times New Roman', Times, serif;
-}
+}*/
 
 .download-btn{
   background-color: DodgerBlue;
