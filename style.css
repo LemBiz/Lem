@@ -5,10 +5,12 @@
       width: 1920;
       height: 1080px;
   background-color:#eee;
+  font-family: 'Times New Roman', Times, serif;
   }
 
 * {
   box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
 }
 @font-face {
   font-family: 'Times New Roman', Times, serif;
