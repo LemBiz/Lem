@@ -1,19 +1,14 @@
 * {
   box-sizing: border-box;
 }
-@font-face {
-  font-family: 'PT Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
-}
+
 html,
 body {
   margin: 0;
   padding: 0;
 }
 body {
-  font-family: 'PT Sans', Arial, Verdana;
+  font-family: 'Times New Roman', Times, serif;
   background-color: #eee;
 }
 h1 {
