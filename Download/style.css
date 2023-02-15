@@ -93,30 +93,32 @@ li.slider {
 }
 *
 {
-  margin:0;
-  padding:0;
+  
   box-sizing: border-box;
   font-family: 'Times New Roman', Times, serif;
 }
 
-body{
+/*(body{
   min-height:100vh;
   display:grid;
   place-items:center;
   font-family: 'Times New Roman', Times, serif;
-}
+}*/
 
 .download-btn{
-  background-color: DodgerBlue;
-  color: white;
-  padding: 1rem 2rem;
+  background-color: #00bb2f;
   font-size: 2rem;
+  padding: 50px 210px;
   text-decoration: none;
-  border-radius:5px;
-
+  border: #00af2c 1px solid;
+  border-radius: 35px;
+  letter-spacing: 2px;
+  color: #fff;
+position: absolute;
+margin: 13% 33.5%;
 }
 
 .download-btn:hover {
-  background-color: RoyalBlue;
+  background-color: #00af2c;
 }
 
