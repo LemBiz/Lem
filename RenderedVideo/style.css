@@ -85,3 +85,9 @@ li.slider {
   left: 25%;
   background-color: #9b59b6;
 }
+video{
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 80px;
+}
