@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 @font-face {
-  font-family: 'PT Sans';
+  font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
@@ -13,7 +13,7 @@ body {
   padding: 0;
 }
 body {
-  font-family: 'PT Sans', Arial, Verdana;
+  font-family: 'Times New Roman', Times, serif;
   background-color: #eee;
 }
 h1 {
@@ -22,6 +22,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #222;
+  font-family: 'Times New Roman', Times, serif;
 }
 .menu {
   list-style: none;
@@ -33,6 +34,7 @@ h1 {
   position: relative;
   background-color: #2c3e50;
   z-index: 7;
+  font-family: 'Times New Roman', Times, serif;
 }
 .menu li {
   float: left;
@@ -40,6 +42,7 @@ h1 {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Times New Roman', Times, serif;
 }
 .menu a {
   display: flex;
@@ -52,10 +55,12 @@ h1 {
   position: relative;
   font-size: 18px;
   z-index: 9;
+  font-family: 'Times New Roman', Times, serif;
 }
 a.active {
   background-color: #e67e22;
   pointer-events: none;
+  font-family: 'Times New Roman', Times, serif;
 }
 li.slider {
   width: 25%;
@@ -66,6 +71,7 @@ li.slider {
   background-color: #2c3e50;
   z-index: 8;
   transition: left 0.4s, background-color 0.4s;
+  font-family: 'Times New Roman', Times, serif;
 }
 .menu li:nth-child(1):hover ~ .slider,
 .menu li:nth-child(1):focus ~ .slider,
