@@ -71,7 +71,7 @@ li.slider {
 .menu li:nth-child(1):focus ~ .slider,
 .menu li:nth-child(1):active ~ .slider {
   left: 0;
-  background-color: #3498db;
+  background-color: #e74c3c;
 }
 .menu li:nth-child(2):hover ~ .slider,
 .menu li:nth-child(2):focus ~ .slider,
