@@ -91,3 +91,9 @@ li.slider {
   left: 25%;
   background-color: #9b59b6;
 }
+.menu li:nth-child(4):hover ~ .slider,
+.menu li:nth-child(4):focus ~ .slider,
+.menu li:nth-child(4):active ~ .slider {
+  left: 75%;
+  background-color: #16a085;
+}
