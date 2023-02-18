@@ -99,7 +99,7 @@ li.slider {
   font-family: 'Times New Roman', Times, serif;
 }*/
 
-/*.download-btn{
+.download-btn{
   background-color: #00bb2f;
   font-size: 2rem;
   padding: 50px 210px;
@@ -110,24 +110,8 @@ li.slider {
   color: #fff;
 position: absolute;
 margin: 13% 33.5%;
-}*/
-.download-btn{
-  background-color: #00bb2f;
-  font-size: 2rem;
-  
-  text-decoration: none;
-  border: #00af2c 1px solid;
-  border-radius: 90px;
-  letter-spacing: 2px;
-  color: #fff;
-position: absolute;
-width: 400px;
-height: 70px;
-top: 50%;
-left: 50%;
-right: 50%;
-bottom: 50%;
 }
+
 
 .download-btn:hover {
   background-color: #00af2c;
