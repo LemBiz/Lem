@@ -102,19 +102,18 @@ li.slider {
 .download-btn{
   background-color: #00bb2f;
   font-size: 2rem;
-  
+  padding: 50px 210px;
   text-decoration: none;
   border: #00af2c 1px solid;
   border-radius: 35px;
   letter-spacing: 2px;
   color: #fff;
 position: absolute;
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 40%;
+/*margin: 13% 33.5%;*/
+top: 50%;
+left: 50%;
+transform: translate(-50, -50);
 }
-
 
 .download-btn:hover {
   background-color: #00af2c;
