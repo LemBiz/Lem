@@ -102,15 +102,15 @@ li.slider {
 .download-btn{
   background-color: #00bb2f;
   font-size: 2rem;
-  
+  padding:0;
   text-decoration: none;
   border: #00af2c 1px solid;
-  /*border-radius: 35px;*/
+  border-radius: 35px;
   letter-spacing: 2px;
   color: #fff;
 position: absolute;
-/*margin: 13% 33.5%;*/
-top: 50%;
+margin: 0;
+top: 5%;
 left: 50%;
 transform: translate(-50, -50);
 }
